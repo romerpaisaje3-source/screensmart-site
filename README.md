@@ -110,6 +110,7 @@ font-weight:bold;
 <a href="#effects">Effects</a>
 <a href="#tips">Tips</a>
 <a href="#resources">Resources</a>
+<a href="#videos">Videos</a>
 </div>
 </nav>
 
@@ -211,6 +212,24 @@ Technology should improve our lives, not control them.
 <li><a class="resource" href="https://www.unicef.org" target="_blank">UNICEF – Children and Digital Technology</a></li>
 </ul>
 
+</section>
+
+<!-- NEW Videos Section -->
+<section id="videos" class="card">
+  <h2>Watch Related Videos</h2>
+  <p>Check out videos about screen smart habits and awareness:</p>
+
+  <div class="image-section">
+    <img src="https://images.unsplash.com/photo-1590608897129-79b1d0428d0f" alt="watch videos">
+  </div>
+
+  <p>
+    Download the Pocket Films app to watch more videos:
+  </p>
+
+  <a class="button" href="https://play.google.com/store/apps/details?id=in.pocketfilms.app" target="_blank">
+    Download Now
+  </a>
 </section>
 
 <footer>
